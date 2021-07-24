@@ -88,6 +88,19 @@ i {
 	text-align: center;
 }
 
+.porque {
+	align-content: center;
+	width: 90%;
+	background: #f2e9ff;
+	padding: 10px;
+	margin: auto;
+	border-radius: 10px;
+	align-self: center;
+}
+
+.redondel {
+	border-radius: 20px;
+}
 
 /*SERVICIOS*/
 
@@ -108,12 +121,16 @@ i {
     border-radius: 10px;
 }
 
+.card-box:hover {
+	background-color: #f2e9ff;
+}
 
 /*CONTACTO*/
 
 
 .f1{
 	padding: 15px;
+	margin: 0;
 }
 
 
@@ -122,3 +139,11 @@ i {
   	height: 100%;
 }
 
+.estamos {
+	line-height: 2; 
+	background-color: #f2e9ff;
+}
+
+.estamos:hover {
+	background-color: #f2e2dc ;
+}
