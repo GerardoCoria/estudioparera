@@ -184,13 +184,13 @@ nav{
 		z-index: 999; */
 	}
 	
-	/* .footer #button{
-		height:10vw;
-		background:#7a5c63;
+	.footer #button{
+		height:5vw;
+		/* background:#7a5c63;
 		color: white;
 		text-align: center;
-		position:relative;
-	} */
+		position:relative; */
+	}
 	
 	.footer #button:hover{
 		height:5vw;
